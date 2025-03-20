@@ -1,7 +1,7 @@
 <h1>Excel Data Processing</h1>
 
 <h2>Description</h2>
-This practical serves as basic intoduction to experimental physics and the kind of numberical and statistical analysis that goes along with this stream of physics.
+This practical serves as basic intoduction to experimental physics and the kind of numerical and statistical analysis that goes along with this stream of physics.
 <br />
 
 
